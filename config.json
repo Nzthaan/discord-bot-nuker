@@ -1,0 +1,44 @@
+{
+    "token": "TOKEN",
+    "guild_id": "ID",
+    "channels": [
+        {
+            "name": "NOME DO CHAT",
+            "type": "text",
+            "category": "general",
+            "permissions": true
+          },
+          {
+            "name": "NOME DO CHAT",
+            "type": "text",
+            "category": "general",
+            "permissions": true
+          },
+          {
+            "name": "NOME DO CHAT",
+            "type": "text",
+            "category": "general",
+            "permissions": true
+          },
+          {
+            "name": "NOME DO CHAT DE VOZ",
+            "type": "voice",
+            "category": "vc",
+            "permissions": true
+          },
+          {
+            "name": "NOME DO CHAT DE VOZ",
+            "type": "voice",
+            "category": "vc",
+            "permissions": true
+          },
+          {
+            "name": "NOME DO CHAT DE VOZ",
+            "type": "voice",
+            "category": "vc",
+            "permissions": true
+          }
+        ],
+        "interval": 1800, 
+        "voice_channel_id": "ID DO CANAL DE VOZ"
+      }
